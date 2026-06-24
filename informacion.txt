@@ -1,0 +1,10 @@
+Objetivo del proyecto:
+Ofrecer a los coleccionistas una herramienta web intuitiva y visual que les permita digitalizar sus colecciones físicas, monitorear su progreso y gestionar los artículos que desean adquirir en el futuro.
+
+Público al que va dirigido:
+Coleccionistas dedicados, entusiastas de la cultura pop, música y piezas de edición limitada que buscan un espacio ordenado para administrar sus pasatiempos.
+
+Características principales:
+1. Galería digital organizada por categorías y marcas con filtros avanzados de búsqueda.
+2. Indicador visual del porcentaje completado de cada set o colección.
+3. Sección de "Lista de deseos" (Wishlist) para priorizar las próximas adquisiciones.
